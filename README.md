@@ -54,4 +54,4 @@ Este repositório contém uma série de exercícios, exemplos e explicações so
 Contribuições são bem-vindas! Sinta-se livre para abrir issues ou pull requests com melhorias, correções ou novos desafios.
 
 ## 📝 Licença
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE]() para mais detalhes.
+Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
